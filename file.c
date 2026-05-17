@@ -1,3 +1,4 @@
+/* Module file - File FIFO pour les mains des joueurs */
 #include <stdio.h>
 #include <stdlib.h>
 
